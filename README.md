@@ -45,7 +45,6 @@ to be updated
 * user adjusts array size
 * displaying the index location
 * disabling hover effect while algorithm is running
-* big thanks to my data structures professor, [Clement Mihailescu](https://github.com/clementmihailescu) and [CSALS](https://github.com/CSALS) for the project idea and inspiration!
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
